@@ -10,7 +10,8 @@ Why firewall?
 
 ### Tools Used
 
-- 
+- pfSense
+- VMware Workstation Pro 17
 
 ## Steps
 
